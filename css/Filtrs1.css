@@ -1,0 +1,17 @@
+div
+body {
+    margin: 0;
+}
+div {
+    max-width: 680px;
+margin: 0 auto;
+}
+h1 {
+    font-family: 'Satisfy', cursive;
+    color: #474747;
+    text-align: center;
+}
+ul {
+    list-style: none;
+
+}
